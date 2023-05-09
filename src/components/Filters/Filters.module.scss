@@ -1,0 +1,12 @@
+.container {
+  margin-bottom: 20px;
+
+  .filtersWrapper {
+    display: flex;
+    justify-content: space-between;
+
+    .filtersWrapperForCountryNameOrRegion {
+      display: flex;
+    }
+  }
+}
